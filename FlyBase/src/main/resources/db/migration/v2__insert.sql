@@ -1,0 +1,1 @@
+INSERT INTO userdetails(fname,lname,password,role,username) VALUES("Test","Test","Test","Test","Test");
